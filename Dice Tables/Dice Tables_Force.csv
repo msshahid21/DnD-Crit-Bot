@@ -1,0 +1,11 @@
+Min,Max,Result
+1,1,You call that a crit? Roll damage as normal.
+2,3,Spellstruck! Roll damage as normal and the creature has disadvantage on saving throws against spells until the end of its next turn.
+4,6,"Good hit! Do not roll your damage dice, instead deal the maximum result possible with those dice."
+7,8,Eldritch incandescence! Roll your damage as normal and spell attack rolls against the creature have advantage until the end of its next turn.
+9,11,Great hit! Roll twice as many damage dice as normal.
+12,13,Bewitching blow! Roll twice as many damage dice as normal and the creature is spellbound until the end of its next turn. While spellbound it makes saving throws against spells with disadvantage and spell attack rolls against it have advantage.
+14,16,Mystic magnet! Roll twice as many damage dice as normal and the creature is spellbound for the next minute. While spellbound it makes saving throws against spells with disadvantage and spell attack rolls against it have advantage. At the end of each of the creature’s turns it can make an Intelligence saving throw (DC 14) to end this effect.
+17,18,"Ensorcelled! Deal the maximum amount of damage from your normal damage dice then roll your damage dice and add that result then roll on the minor injury chart. Additionally, the creature is spellbound for the next minute. While spellbound it makes saving throws against spells with disadvantage and spell attack rolls against it have advantage. At the end of each of the creature’s turns it can make an Intelligence saving throw (DC 16) to end this effect."
+19,19,Arcane injury! Deal twice the maximum result of your damage dice and roll on the major injury chart.
+20,20,"Magically mauled! Deal twice the maximum result of your damage dice and roll on the major injury chart. Additionally, the creature is spellbound for the next minute. While spellbound it makes saving throws against spells with disadvantage and spell attack rolls against it have advantage. At the end of each of the creature’s turns it can make an Intelligence saving throw (DC 18) to end this effect."

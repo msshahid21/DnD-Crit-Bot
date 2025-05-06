@@ -1,0 +1,11 @@
+Min,Max,Result
+1,1,You call that a crit? Roll damage as normal.
+2,3,Spoil! Roll damage as normal and the creature cannot regain hit points until the end of its next turn.
+4,6,"Good hit! Do not roll your damage dice, instead deal the maximum result possible with those dice."
+7,8,Fester! Roll your damage as normal and the creature’s maximum hit points are reduced by the same amount.
+9,11,Great hit! Roll twice as many damage dice as normal.
+12,13,Decay! Roll twice as many damage dice as normal and the creature’s maximum hit points are reduced by the same amount.
+14,16,Rot! Roll twice as many damage dice as normal and the creature cannot regain hit points for the next minute. It may make a saving throw (DC 16) at the end of each of its turns to end this effect.
+17,18,Blight! Deal the maximum amount of damage from your normal damage dice then roll your damage dice and add that result. The creature’s maximum hit points are reduced by the same amount. Then roll on the minor injury chart.
+19,19,Atrophy! Deal twice the maximum result of your damage dice and roll on the major injury chart.
+20,20,"Putrefy! Deal twice the maximum result of your damage dice, the creature’s maximum hit points are reduced by the same amount, and the creature cannot regain hit points until the end of its next turn. Then roll on the major injury chart."

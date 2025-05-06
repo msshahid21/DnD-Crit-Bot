@@ -1,0 +1,11 @@
+Min,Max,Result
+1,1,You call that a crit? Roll damage as normal.
+2,3,Shocking! Roll damage as normal and the creature cannot use reactions until the end of its next turn.
+4,6,"Good hit! Do not roll your damage dice, instead deal the maximum result possible with those dice."
+7,8,Sparks fly! Roll your damage as normal and you may choose one other creature within 15 ft. of the victim. That creature must succeed on a Dexterity saving throw (DC 14) or take half as much damage.
+9,11,Great hit! Roll twice as many damage dice as normal.
+12,13,Electric arc! Roll twice as many damage dice as normal and you may choose one other creature within 15 ft. of the victim. That creature must succeed on a Dexterity saving throw (DC 18) or take half as much damage.
+14,16,Fulminate! Roll twice as many damage dice as normal and roll on the minor injury chart. If the creature is wearing metal armor roll on the major injury chart instead.
+17,18,Lit up! Deal the maximum amount of damage from your normal damage dice then roll your damage dice and add that result. The creature and each creature you choose within 15 ft. of it cannot take reactions until the end of their next turn. Then roll on the minor injury chart.
+19,19,Electrocuted! Deal twice the maximum result of your damage dice and roll on the major injury chart.
+20,20,Lightning rod! Deal twice the maximum result of your damage dice and you may choose one other creature within 15 ft. of the victim. That creature must succeed on a Dexterity saving throw (DC 20) or take half as much damage. Then roll on the major injury chart.

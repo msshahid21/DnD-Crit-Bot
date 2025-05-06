@@ -1,0 +1,11 @@
+Min,Max,Result
+1,1,You call that a crit? Roll damage as normal.
+2,3,Lunge and thrust! Roll damage dice twice and use the higher result.
+4,6,"Good hit! Do not roll your damage dice, instead deal the maximum result possible with those dice."
+7,8,Stabbed! Roll your damage dice twice and add them together.
+9,11,Great hit! Roll your damage dice twice and add them together.
+12,13,Swiss cheese! Roll twice as many damage dice as normal. Then roll twice on the minor injury chart and use the lower result.
+14,16,Punctured! Roll your damage dice twice and add them together and roll on the minor injury chart.
+17,18,Cruel prick! Roll your damage dice twice and add them together and roll on the major injury chart.
+19,19,Run through! Deal twice the maximum result of your damage dice and roll on the major injury chart.
+20,20,"Pierce! Deal the maximum result of your damage dice twice, roll on the minor injury chart, and roll on the major injury chart."

@@ -1,0 +1,11 @@
+Min,Max,Result
+1,1,You call that a crit? Roll damage as normal.
+2,3,Smashed off balance! Roll damage as normal and the next attack against the creature has advantage.
+4,6,"Good hit! Do not roll your damage dice, instead deal the maximum result possible with those dice."
+7,8,"Sent reeling! Do not roll your damage dice, instead deal the maximum result possible with those dice and push the creature up to 15 feet in any direction."
+9,11,Great hit! Roll your damage dice twice and add them together.
+12,13,Take a seat! Roll damage dice twice and add them together and the creature is knocked prone.
+14,16,"Rocked and rolled! Roll damage dice twice and add them together, push the creature up to 15 feet away, and the creature is knocked prone."
+17,18,Grievous injury! Deal the maximum amount of damage from your normal damage dice then roll your damage dice and add the result. Then roll on the Minor Injury chart. If the creature is wearing heavy armor roll on the Major Injury chart instead.
+19,19,Crushed! Deal the twice maximum result of your damage dice and roll on the major injury chart.
+20,20,"Splat! Deal the maximum result of your damage dice twice, the creature is stunned until the end of your next turn, and roll on the major injury chart."

@@ -1,0 +1,11 @@
+Min,Max,Result
+1,1,You call that a crit? Roll damage as normal.
+2,3,Disoriented! Roll your damage dice as normal and you control the creature’s movement on its next turn.
+4,6,Confused! Roll your damage dice as normal and the creature cannot differentiate friend from foe until the end of its next turn.
+7,8,"Good hit! Do not roll your damage dice, instead deal the maximum result possible with those dice."
+9,11,Great hit! Roll twice as many damage dice as normal.
+12,13,Dominated! Roll twice as many damage dice as normal and you control the creature’s action on its next turn.
+14,16,Psychological fracture! Roll twice as many damage dice as normal and roll on the Insanity chart with disadvantage.
+17,18,Psychological break! Deal the maximum amount of damage from your normal damage dice then roll your damage dice and add that result. Then roll on the Insanity chart.
+19,19,Madness! Deal twice the maximum result of your damage dice and roll on the Insanity chart.
+20,20,Mind melt! Deal twice the maximum result of your damage dice and roll on the Insanity chart with advantage.

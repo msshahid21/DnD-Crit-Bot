@@ -1,0 +1,11 @@
+Min,Max,Result
+1,1,You call that a crit? Roll damage as normal.
+2,3,Chills! Roll damage as normal and the creature may only move half its movement speed on its next turn.
+4,6,"Good hit! Do not roll your damage dice, instead deal the maximum result possible with those dice."
+7,8,Frosty! Roll your damage as normal and the creature’s movement speed is 0 until the end of its next turn.
+9,11,Great hit! Roll twice as many damage dice as normal.
+12,13,Freezing! Roll twice as many damage dice as normal and the creature is paralyzed until the end of its next turn.
+14,16,"Frozen! Roll twice as many damage dice as normal and the creature is paralyzed until the end of its next turn. If the creature takes damage before the end of its next turn, roll on the minor injury chart."
+17,18,Ice block! Deal the maximum amount of damage from your normal damage dice then roll your damage dice and add that result. The creature is paralyzed until the end of its next turn and rolls on the minor injury chart.
+19,19,Glacial! Deal twice the maximum result of your damage dice and roll on the major injury chart.
+20,20,"Subzero! Deal twice the maximum result of your damage dice, roll on the major injury chart, and the creature is paralyzed for the next minute. The creature may attempt a saving throw at the end of each of its turns (DC 16) to end this effect. If it fails this saving throw three times it is frozen solid and becomes a petrified but frozen solid in a block of ice rather than turned to stone."
